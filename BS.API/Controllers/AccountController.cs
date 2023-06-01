@@ -14,7 +14,6 @@ namespace BS.API.Controllers
         {
             this.logger = logger;
             this.accountRepository = accountRepository;
-            //asda
         }
 
 
